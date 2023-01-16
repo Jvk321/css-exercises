@@ -4,6 +4,7 @@
   display: flex;;
   align-items: center;
   justify-content: space-between;
+  padding: 8px; /*My answer was nothing */ /*Real Answer padding: 8px*/
 }
 
 .logo {
@@ -12,16 +13,16 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 10px 0px;
+  /*my answer was margin: 10px 0px; */ /* Real Answer with out this*/
 }
 
 ul {
   /* this removes the dots on the list items*/
-  list-style-type: none;
+  list-style-type: none; 
   display: flex;
   padding: 0px;
-  column-gap: 20px;
-  margin: 0px 10px 0px 10px;
+  gap: 20px; /* Real Answer gap 8px */  /* my answer gap: 20px;*/
+  margin: 0px;  /* my answer margin: 0px 10px 0px 10px;*/  /* Real Answer margin 0px */
 }
 
 a {
