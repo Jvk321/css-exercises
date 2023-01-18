@@ -19,6 +19,10 @@ img {
   justify-content: center;
 }
 
+.item {
+  max-width: 200px;
+}
+
 .text {
   text-align: center;
 }
