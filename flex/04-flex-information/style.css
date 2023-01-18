@@ -32,6 +32,7 @@ img {
 .text {
   text-align: center;
   flex-wrap: wrap;
+  margin-top: 5px;
 }
 
 /* do not edit this footer */
