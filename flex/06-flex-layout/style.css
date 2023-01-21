@@ -33,10 +33,14 @@ ul, a {
   list-style: none;
   text-decoration: none;
   display: flex;
+  padding: 0;
+  gap: 20px;
 }
 
 .header {
   display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
 }
 
 .content {
