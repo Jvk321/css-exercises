@@ -19,7 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 8px;
+  padding: 8px 16px;
 }
 
 input {
@@ -35,13 +35,13 @@ ul, a {
   text-decoration: none;
   display: flex;
   padding: 0;
-  gap: 20px;
+  gap: 16px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 0 20px;
+  padding: 0 16px;
 }
 
 .content {
@@ -54,5 +54,5 @@ ul, a {
   background-color: #eeeeee;
   justify-content: space-between;
   display: flex;
-  padding: 0 20px;
+  padding: 0 16px;
 }
