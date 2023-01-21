@@ -35,6 +35,7 @@ ul, a {
   text-decoration: none;
   display: flex;
   padding: 0;
+  margin: 0;
   gap: 16px;
   color: #666;
 }
@@ -42,7 +43,7 @@ ul, a {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 0 16px;
+  padding: 16px 16px;
 }
 
 .content {
@@ -55,5 +56,5 @@ ul, a {
   background-color: #eeeeee;
   justify-content: space-between;
   display: flex;
-  padding: 0 16px;
+  padding: 16px 16px;
 }
