@@ -51,5 +51,7 @@ ul, a {
 
 .footer {
   background-color: #eeeeee;
+  justify-content: space-between;
   display: flex;
+  padding: 0 20px;
 }
