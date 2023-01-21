@@ -36,6 +36,7 @@ ul, a {
   display: flex;
   padding: 0;
   gap: 16px;
+  color: #666;
 }
 
 .header {
