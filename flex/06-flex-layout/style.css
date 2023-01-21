@@ -35,6 +35,10 @@ ul, a {
   display: flex;
 }
 
+.header {
+  display: flex;
+}
+
 .footer {
   background-color: #eeeeee;
   display: flex;
