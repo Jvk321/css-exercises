@@ -18,10 +18,8 @@ body {
   padding: 0 16px;
 }
 
-
-.container {
+.main {
   display: flex;
-  flex-grow: 1;
 }
 
 .footer {
@@ -36,7 +34,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
-  flex: 1 0 auto;
+  flex-shrink: 0;
   padding: 16px;
 }
 
