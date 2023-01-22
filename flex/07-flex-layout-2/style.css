@@ -23,6 +23,11 @@ body {
   flex: 1;
 }
 
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 32px;
+}
 
 .footer {
   height: 72px;
