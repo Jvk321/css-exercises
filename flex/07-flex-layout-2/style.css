@@ -23,6 +23,7 @@ body {
 
 .container {
   display: flex;
+  flex-grow: 1;
 }
 
 .footer {
@@ -37,6 +38,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  flex: 1 0 300px;
 }
 
 .card {
